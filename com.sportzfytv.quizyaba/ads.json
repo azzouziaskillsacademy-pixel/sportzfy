@@ -1,0 +1,227 @@
+{
+  "Quizzes": [
+    {
+      "QuizOptions": ["4 years", "2 years", "3 years", "5 years"],
+      "QuizQuestion": "How often is the Summer Olympics held?",
+      "UizAnswerIndex": 0
+    },
+    {
+      "QuizOptions": ["Golf", "Tennis", "Boxing", "Swimming"],
+      "QuizQuestion": "In which sport is the term 'birdie' used?",
+      "UizAnswerIndex": 0
+    },
+    {
+      "QuizOptions": ["7 players", "5 players", "6 players", "8 players"],
+      "QuizQuestion": "How many players are on the court for one basketball team?",
+      "UizAnswerIndex": 1
+    },
+    {
+      "QuizOptions": ["30 minutes", "45 minutes", "60 minutes", "90 minutes"],
+      "QuizQuestion": "What is the duration of a standard basketball game in professional play?",
+      "UizAnswerIndex": 0
+    },
+    {
+      "QuizOptions": ["Home run", "Touchdown", "Goal", "Basket"],
+      "QuizQuestion": "What is the term for scoring a point in baseball?",
+      "UizAnswerIndex": 0
+    },
+    {
+      "QuizOptions": ["Deuce", "Love", "Fault", "Ace"],
+      "QuizQuestion": "Which term in tennis means a score of zero?",
+      "UizAnswerIndex": 1
+    },
+    {
+      "QuizOptions": ["Puck", "Ball", "Disc", "Stone"],
+      "QuizQuestion": "What is the object called that players hit in ice hockey?",
+      "UizAnswerIndex": 0
+    },
+    {
+      "QuizOptions": ["Strike", "Spare", "Split", "Gutter"],
+      "QuizQuestion": "In bowling, what is it called when you knock down all pins with one ball?",
+      "UizAnswerIndex": 0
+    },
+    {
+      "QuizOptions": ["Birdie", "Eagle", "Albatross", "Bogey"],
+      "QuizQuestion": "In golf, what is one stroke under par called?",
+      "UizAnswerIndex": 0
+    },
+    {
+      "QuizOptions": ["USA", "China", "Russia", "Great Britain"],
+      "QuizQuestion": "Which country has won the most Summer Olympic gold medals in history?",
+      "UizAnswerIndex": 0
+    },
+    {
+      "QuizOptions": ["1950", "1930", "1940", "1960"],
+      "QuizQuestion": "In which year was the first FIFA World Cup held?",
+      "UizAnswerIndex": 1
+    },
+    {
+      "QuizOptions": ["Uruguay", "Brazil", "Argentina", "Italy"],
+      "QuizQuestion": "Which country won the first FIFA World Cup in 1930?",
+      "UizAnswerIndex": 0
+    },
+    {
+      "QuizOptions": ["6 meters", "7 meters", "8 meters", "9 meters"],
+      "QuizQuestion": "How far is the free throw line from the basket in basketball?",
+      "UizAnswerIndex": 0
+    },
+    {
+      "QuizOptions": ["9 innings", "7 innings", "10 innings", "8 innings"],
+      "QuizQuestion": "How many innings are in a standard baseball game?",
+      "UizAnswerIndex": 0
+    },
+    {
+      "QuizOptions": ["Touchdown", "Field goal", "Safety", "Extra point"],
+      "QuizQuestion": "In American football, how many points is a touchdown worth?",
+      "UizAnswerIndex": 1
+    },
+    {
+      "QuizOptions": ["Rugby", "Cricket", "Baseball", "Hockey"],
+      "QuizQuestion": "In which sport do players use a bat and a ball with wickets?",
+      "UizAnswerIndex": 1
+    },
+    {
+      "QuizOptions": ["6 runs", "4 runs", "2 runs", "1 run"],
+      "QuizQuestion": "How many runs is a 'six' worth in cricket?",
+      "UizAnswerIndex": 0
+    },
+    {
+      "QuizOptions": ["8 seconds", "10 seconds", "12 seconds", "15 seconds"],
+      "QuizQuestion": "How long does a bull rider need to stay on the bull in professional rodeo?",
+      "UizAnswerIndex": 0
+    },
+    {
+      "QuizOptions": ["3 rounds", "5 rounds", "7 rounds", "9 rounds"],
+      "QuizQuestion": "How many rounds are in a standard professional boxing match for a title?",
+      "UizAnswerIndex": 0
+    },
+    {
+      "QuizOptions": ["3 minutes", "2 minutes", "4 minutes", "5 minutes"],
+      "QuizQuestion": "How long is each round in professional boxing?",
+      "UizAnswerIndex": 0
+    },
+    {
+      "QuizOptions": ["Green", "Red", "Blue", "Yellow"],
+      "QuizQuestion": "What color is the jacket awarded to the winner of the Masters golf tournament?",
+      "UizAnswerIndex": 0
+    },
+    {
+      "QuizOptions": ["100 meters", "200 meters", "400 meters", "800 meters"],
+      "QuizQuestion": "What is the shortest running event in the Summer Olympics?",
+      "UizAnswerIndex": 0
+    },
+    {
+      "QuizOptions": ["26.2 miles", "20 miles", "25 miles", "30 miles"],
+      "QuizQuestion": "What is the official distance of a marathon race?",
+      "UizAnswerIndex": 0
+    },
+    {
+      "QuizOptions": ["Checkered flag", "Green flag", "Yellow flag", "Red flag"],
+      "QuizQuestion": "What flag is waved to indicate the end of a race in motorsports?",
+      "UizAnswerIndex": 0
+    },
+    {
+      "QuizOptions": ["50 meters", "25 meters", "100 meters", "200 meters"],
+      "QuizQuestion": "How long is an Olympic-sized swimming pool?",
+      "UizAnswerIndex": 0
+    },
+    {
+      "QuizOptions": ["4 strokes", "2 strokes", "3 strokes", "5 strokes"],
+      "QuizQuestion": "In swimming, how many strokes are used in the individual medley?",
+      "UizAnswerIndex": 0
+    },
+    {
+      "QuizOptions": ["10 feet", "8 feet", "12 feet", "6 feet"],
+      "QuizQuestion": "How high is a basketball hoop from the ground?",
+      "UizAnswerIndex": 0
+    },
+    {
+      "QuizOptions": ["Olympics", "World Cup", "Super Bowl", "Wimbledon"],
+      "QuizQuestion": "Which major tennis tournament is played on grass courts?",
+      "UizAnswerIndex": 3
+    },
+    {
+      "QuizOptions": ["40 yards", "50 yards", "60 yards", "100 yards"],
+      "QuizQuestion": "How long is an American football field including the end zones?",
+      "UizAnswerIndex": 1
+    },
+    {
+      "QuizOptions": ["150 pounds", "200 pounds", "250 pounds", "300 pounds"],
+      "QuizQuestion": "What is the approximate weight of a professional bowling ball?",
+      "UizAnswerIndex": 0
+    },
+    {
+      "QuizOptions": ["Skiing", "Snowboarding", "Ice skating", "Bobsledding"],
+      "QuizQuestion": "Which winter sport involves sliding down an icy track on a small sled?",
+      "UizAnswerIndex": 3
+    },
+    {
+      "QuizOptions": ["White", "Yellow", "Orange", "Pink"],
+      "QuizQuestion": "What color is a traditional cricket ball in test matches?",
+      "UizAnswerIndex": 0
+    },
+    {
+      "QuizOptions": ["Rowing", "Kayaking", "Sailing", "Canoeing"],
+      "QuizQuestion": "Which sport uses a boat propelled by oars with one person in each seat?",
+      "UizAnswerIndex": 0
+    },
+    {
+      "QuizOptions": ["Backhand", "Forehand", "Smash", "Lob"],
+      "QuizQuestion": "In tennis, what is a high shot hit over the opponent's head called?",
+      "UizAnswerIndex": 3
+    },
+    {
+      "QuizOptions": ["Head", "Chest", "Foot", "Knee"],
+      "QuizQuestion": "In soccer, which body part is the goalkeeper allowed to use that field players cannot?",
+      "UizAnswerIndex": 1
+    }
+  ],
+  "PlayerConfig": {
+    "ShowQuiz": true,
+    "ClickCount": 3,
+    "ShowEvents": false,
+    "ShowScores": false,
+    "ShowUpdate": false,
+    "UpdateLink": "",
+    "ShowChannels": false,
+    "PlayerPackage": "com.golvar.sportsquiz",
+    "ShowCustomAds": false,
+    "UpdateVersion": 1,
+    "ShowAutoEvents": false,
+    "server_priority": {
+      "str": 2,
+      "manual": 1,
+      "timstreamer": 3
+    },
+    "ShowAutoChannels": false,
+    "ShowManualEvents": false,
+    "ShowManualChannels": false,
+    "PlayerChannelsAndEventsInPlayer": false
+  },
+  "CustomInterAds": [
+    {
+      "ShowQr": true,
+      "InterstitialLink": "https://glovo.com",
+      "ShowImageOrVideo": 0,
+      "InterstitialImageLink": "https://i.ytimg.com/vi/gQqlVIKBm7E/maxresdefault.jpg",
+      "InterstitialVideoLink": "https://video.adsoftheworld.com/hx9h2ctz5mkiuojooqeaso8jpk96.mp4",
+      "InterstitialQrImageForTv": "https://i.imgur.com/xWFMqjF.png"
+    },
+    {
+      "ShowQr": false,
+      "InterstitialLink": "https://glovo.com",
+      "ShowImageOrVideo": 0,
+      "InterstitialImageLink": "https://i.ytimg.com/vi/gQqlVIKBm7E/maxresdefault.jpg",
+      "InterstitialVideoLink": "https://video.adsoftheworld.com/eeqz98r9d9c779wt29ousfqkjxm3.mp4",
+      "InterstitialQrImageForTv": "https://i.imgur.com/xWFMqjF.png"
+    },
+    {
+      "ShowQr": false,
+      "InterstitialLink": "https://glovo.com",
+      "ShowImageOrVideo": 1,
+      "InterstitialImageLink": "https://image.adsoftheworld.com/gooc3m74ymk8fjkps26s3ju3oq9z",
+      "InterstitialVideoLink": "https://video.adsoftheworld.com/eeqz98r9d9c779wt29ousfqkjxm3.mp4",
+      "InterstitialQrImageForTv": "https://i.imgur.com/xWFMqjF.png"
+    }
+  ]
+}
