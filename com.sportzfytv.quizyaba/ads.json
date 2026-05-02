@@ -179,24 +179,24 @@
   "PlayerConfig": {
     "ShowQuiz": true,
     "ClickCount": 3,
-    "ShowEvents": false,
-    "ShowScores": false,
+    "ShowEvents": true,
+    "ShowScores": true,
     "ShowUpdate": false,
     "UpdateLink": "",
-    "ShowChannels": false,
+    "ShowChannels": true,
     "PlayerPackage": "com.smartflix.proplayer",
     "ShowCustomAds": false,
     "UpdateVersion": 1,
-    "ShowAutoEvents": false,
+    "ShowAutoEvents": true,
     "server_priority": {
       "str": 2,
       "manual": 1,
       "timstreamer": 3
     },
-    "ShowAutoChannels": false,
-    "ShowManualEvents": false,
-    "ShowManualChannels": false,
-    "PlayerChannelsAndEventsInPlayer": false
+    "ShowAutoChannels": true,
+    "ShowManualEvents": true,
+    "ShowManualChannels": true,
+    "PlayerChannelsAndEventsInPlayer": true
   },
   "CustomInterAds": [
     {
